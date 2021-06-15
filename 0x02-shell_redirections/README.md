@@ -1,6 +1,6 @@
 #  Shell, I/O Redirections and filters
 ## Learning to write commands that do the following:
-1. Prints 'Hello World'
-2. Displays a confused smiley 
-3. Displays contents of a file
-
+0. Prints 'Hello World'
+1. Displays a confused smiley 
+2. Displays contents of a file
+3. Display the content two files
